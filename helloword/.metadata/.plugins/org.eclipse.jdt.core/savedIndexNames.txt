@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+E:\java\helloword\.metadata\.plugins\org.eclipse.jdt.core
+985413812.index
