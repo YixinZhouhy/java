@@ -1,0 +1,12 @@
+package Topic2;
+
+public class Topic2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		double a = 0.9;
+		double b = 1;
+		System.out.println(b - a);
+	}
+
+}

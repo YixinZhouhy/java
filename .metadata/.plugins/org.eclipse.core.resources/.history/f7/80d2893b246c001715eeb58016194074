@@ -1,0 +1,25 @@
+/*
+ *  变量、赋值及计算
+ */
+
+package topic1;
+
+import java.util.Scanner;
+
+public class Topic1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner in = new Scanner(System.in);
+		
+		float number_1;  // 加数
+		float number_2;  // 被加数
+		
+		System.out.println("请输入加数");
+		number_1 = in.nextFloat();
+		System.out.println("请输入被加数");
+		number_2 = in.nextFloat();
+		System.out.println("Sum = " + (number_1 + number_2));
+	}
+
+}

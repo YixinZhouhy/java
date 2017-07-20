@@ -1,0 +1,14 @@
+/*
+ *  变量、赋值及计算
+ */
+
+package topic1;
+
+public class Topic1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Hello World");
+	}
+
+}
